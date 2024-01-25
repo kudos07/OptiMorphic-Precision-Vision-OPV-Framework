@@ -1,4 +1,4 @@
-# unet_artifact_removal
+# OptiMorphic Precision Vision (OPV) Framework
 A CNN-based model that could remove jpeg artifacts from a given jpeg image. 
 
 * For details on artifact removal, purpose, model architecture and training, please refer this [article](). 
