@@ -1,4 +1,4 @@
-```
+
 # OptiMorphic Precision Vision (OPV) Framework
 
 ## Overview
@@ -58,4 +58,3 @@ We welcome contributions from the community. If you have suggestions for improve
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-```
